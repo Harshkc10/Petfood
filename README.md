@@ -1,39 +1,45 @@
-# 🐾 Pet Food E-Commerce Website
-
-A responsive **Pet Food E-Commerce Website** built using **PHP, HTML, CSS, and JavaScript**.  
-Designed to showcase pet food products with browsing and cart features.
 
 ---
 
-## 📌 About the Project
+# 🐾 Pet Food E-Commerce Website
 
-This project is a simple pet food store website where users can browse products, view details, and add items to a shopping cart.  
-It focuses on building a full-stack web experience using PHP for backend logic and frontend technologies for UI.
+```markdown
+# 🐾 Pet Food E-Commerce Website
+
+A PHP-based pet food e-commerce website with product listing and cart functionality.
+
+---
+
+## 📌 Project Overview
+
+Users can browse pet food products and add them to a cart. This project focuses on PHP backend logic and frontend integration.
 
 ---
 
 ## ✨ Features
 
-- Browse pet food products  
-- Add products to cart  
-- Product images, pricing, & descriptions  
-- Responsive and user-friendly interface  
-- PHP backend for managing products & cart
+- Product listing
+- Add to cart
+- Responsive layout
+- PHP backend handling
 
 ---
 
 ## 🧰 Tech Stack
 
-- **PHP** — Server-side scripting  
-- **HTML5 & CSS3** — Layout and styling  
-- **JavaScript** — Dynamic UI behaviors  
-- **MySQL** (optional) — Backend database *(add if used)*
+- PHP
+- HTML
+- CSS
+- JavaScript
+- MySQL (optional)
 
 ---
 
-## 🛠️ Installation & Setup
+## 🛠️ Installation & Running Locally
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/Harshkc10/Petfood.git
-   cd Petfood
+1. Install XAMPP / WAMP
+2. Clone the project
+```bash
+git clone https://github.com/Harshkc10/Petfood.git
+3.Move folder to htdocs
+4.Start Apache and MySQL 
